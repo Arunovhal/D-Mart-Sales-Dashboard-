@@ -1,0 +1,1 @@
+I’m thrilled to share my latest project, where I have developed an interactive and insightful dashboard for Dmart Sales using Power BI. This dashboard is designed to help stakeholders visualize key sales metrics, analyze customer behavior, and optimize overall business performance.
